@@ -15,6 +15,7 @@ eureka:
   instance:
     prefer-ip-address: true #显示客户端真实ip
 ---
+
 spring:
   profiles: test
   application:
